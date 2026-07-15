@@ -1,18 +1,147 @@
-# 💫 About Me:
-# 👋 Hi, I'm Nagoorgani Yusuff<br><br>## 🚀 AI-Powered Full Stack Digital Marketer & Web Developer | Driving E-Commerce Growth Through Data, Automation & AI<br><br>I'm a passionate **AI-Powered Full Stack Digital Marketer & Web Developer** who helps businesses grow through data-driven marketing, AI automation, performance marketing, SEO, and high-converting websites.<br><br>With experience across **E-Commerce, WordPress, WooCommerce, Shopify, Performance Marketing, SEO, Web Development, and AI**, I combine technical expertise with marketing strategy to create measurable business impact.<br><br>Currently working as a **Digital Marketing Specialist in Dubai, UAE** while pursuing an **MBA in Systems Management**, with the goal of leading high-performing teams and building scalable digital growth strategies.<br><br>---<br><br>## 📍 Location<br><br>📍 Dubai, United Arab Emirates<br><br>---<br><br># 🛠️ Tech Stack<br><br>## 💻 Web Development<br><br>- HTML5<br>- CSS3<br>- JavaScript<br>- React.js<br>- Node.js<br>- Express.js<br>- WordPress<br>- WooCommerce<br>- Shopify<br><br>---<br><br>## 📈 Digital Marketing & Growth<br><br>- Google Ads<br>- Meta Ads<br>- Google Analytics 4<br>- Google Tag Manager<br>- Google Search Console<br>- Meta Business Suite<br>- SEO<br>- Technical SEO<br>- Local SEO<br>- Google Business Profile<br>- Email Marketing<br>- Conversion Rate Optimization (CRO)<br>- Funnel Optimization<br>- Landing Page Optimization<br>- A/B Testing<br>- Social Media Marketing<br>- Content Strategy<br><br>---<br><br>## 🤖 Artificial Intelligence<br><br>- Prompt Engineering<br>- AI Marketing<br>- ChatGPT<br>- Claude AI<br>- Google Gemini<br>- Microsoft Copilot<br>- AI Content Creation<br>- AI Image Generation<br>- AI Workflow Automation<br>- AI Research<br>- AI Productivity<br>- AI-Assisted Coding<br>- AI for SEO<br>- AI for Digital Marketing<br><br>---<br><br>## 🎨 Design<br><br>- Canva<br>- Adobe Photoshop<br>- Adobe Illustrator<br>- Figma<br><br>---<br><br>## ⚙️ Tools<br><br>- Git<br>- GitHub<br>- VS Code<br>- Zoho CRM<br>- Google Workspace<br>- Microsoft Office<br><br>---<br><br># 🚀 Featured Projects<br><br>## 🛒 ARR Foods E-Commerce Website<br><br>Designed and developed a complete WooCommerce e-commerce website with product management, payment integration, SEO optimization, and a conversion-focused shopping experience.<br><br>---<br><br>## 📈 E-Commerce Conversion Optimization<br><br>Audited and transformed key e-commerce pages for Arbhu Enterprise to improve user experience, increase conversions, and drive higher sales.<br><br>---<br><br>## 💱 Al Dahab Exchange Digital Growth<br><br>Managed SEO, Google Ads, Meta Ads, website optimization, Google Business Profile, email marketing, and AI-powered digital campaigns to improve online visibility, customer engagement, and business growth.<br><br>---<br><br>## 📊 SEO & Website Performance Optimization<br><br>Improved website speed, Core Web Vitals, technical SEO, schema implementation, and on-page SEO across multiple business websites to increase organic traffic and search rankings.<br><br>---<br><br>## 📱 Social Media Growth Strategy<br><br>Grew an Instagram page to **13,000+ followers within four months** through strategic content planning, script writing, audience research, and data-driven digital marketing.<br><br>---<br><br>## 🤖 AI-Powered Marketing Automation<br><br>Built AI-assisted workflows for:<br><br>- Content Creation<br>- Campaign Planning<br>- SEO Content<br>- Website Copywriting<br>- Marketing Research<br>- Social Media Strategy<br>- Workflow Automation<br>- Productivity Enhancement<br><br>---<br><br># 🏆 Certifications<br><br>- 🥇 One Million Prompters – Dubai Future Foundation<br>- 🎓 Work Smarter with AI – Canva<br>- 🎓 Marketing with Canva<br>- 🎓 Build Your Business Brand Using Canva<br>- 🎓 Anti-Money Laundering (AML) Essentials<br><br>---<br><br># 📊 GitHub Stats<br><br><!-- Replace YOUR_USERNAME --><br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)<br><br>![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)<br><br>---<br><br># 🌐 Connect With Me<br><br>💼 LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN<br><br>📧 Email: ynagoorgani@gmail.com<br><br>🌍 Portfolio: Coming Soon<br><br>---<br><br># 📫 Contact Me<br><br>📧 **Email:** ynagoorgani@gmail.com<br><br>💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN<br><br>---<br><br># 🎯 About Me<br><br>🌱 **Currently Learning**<br><br>- AI Agents<br>- AI Automation<br>- Advanced E-Commerce Growth<br>- Performance Marketing<br>- Shopify Development<br>- Conversion Rate Optimization<br>- Leadership & Systems Management (MBA)<br><br>💬 **Ask Me About**<br><br>- AI for Business<br>- AI Marketing<br>- E-Commerce Growth<br>- Performance Marketing<br>- SEO<br>- Google Ads<br>- Meta Ads<br>- WordPress<br>- Shopify<br>- Web Development<br>- Conversion Optimization<br>- Digital Marketing<br><br>⚡ **Fun Fact**<br><br>I believe the future belongs to marketers who understand technology. My passion is combining **AI, automation, web development, and digital marketing** to build smarter systems, create exceptional customer experiences, and drive sustainable business growth.
+# 💫 About Me
 
+## 👋 Hi, I'm Nagoorgani Yusuff
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nagoor_de_potter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nagoorgani Yusuff) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ynagoorgani@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white) ![Gutenberg](https://img.shields.io/badge/gutenberg-%23077CB2.svg?style=for-the-badge&logo=gutenberg&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nagoorgani&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nagoorgani&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nagoorgani&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🚀 AI-Powered Full Stack Digital Marketer & Web Developer
+### 📈 Driving E-Commerce Growth Through Data, Automation & AI
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Full+Stack+Developer;Digital+Marketing+Expert;Data-Driven+Problem+Solver)](https://git.io/typing-svg)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=nagoorgani&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 About Me
+
+I'm a passionate **AI-Powered Full Stack Digital Marketer** and **Web Developer** dedicated to driving tangible business growth through strategic automation, data analytics, and innovative web solutions. With expertise spanning both marketing and development, I bridge the gap between business objectives and technical excellence.
+
+### 🎯 What I Do:
+- 🤖 **AI Integration & Automation** - Implementing AI solutions to streamline workflows and boost efficiency
+- 🌐 **Full Stack Web Development** - Building scalable web applications from frontend to backend
+- 📊 **Data-Driven Marketing** - Leveraging analytics and insights to drive e-commerce growth
+- 💡 **Digital Strategy** - Creating comprehensive marketing solutions with technical implementation
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nagoor_de_potter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagoorgani)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagoorgani)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=%23000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🔧 Backend & Programming
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI & Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF6D00?style=for-the-badge&logo=zapier&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+### 📈 My GitHub Activity
+[![](https://github-readme-stats.shion.dev/api?username=nagoorgani&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/nagoorgani)
+
+### 🔥 Contribution Streak
+[![](https://streak-stats.demolab.com/?user=nagoorgani&theme=synthwave&hide_border=false)](https://github.com/nagoorgani)
+
+### 🛠️ Most Used Languages
+[![](https://github-readme-stats.shion.dev/api/top-langs/?username=nagoorgani&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/nagoorgani)
+
+</div>
+
+---
+
+## 🎯 Recent Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| 🎬 **Movie Booking Application** | Full-featured booking system | JavaScript, React |
+| 🛒 **E-Commerce Platform** | Complete shopping solution | MERN Stack |
+| 💱 **Currency Converter** | Real-time currency exchange | PHP, JavaScript |
+| 🎮 **Interactive Games** | Browser-based game collection | JavaScript, HTML5 |
+| 📚 **Learning Resources** | Knowledge base & course files | Various Languages |
+
+</div>
+
+---
+
+## 🌟 Highlights
+
+<div align="center">
+
+- 💼 **30+ Projects** spanning web development, automation, and marketing
+- 🎓 **Continuous Learner** - Passionate about emerging technologies and best practices
+- 🚀 **Full Stack Expertise** - From UI/UX design to backend optimization
+- 🤝 **Collaboration Focused** - Love working with teams to deliver exceptional results
+- ⚡ **Performance Driven** - Obsessed with creating fast, scalable, and efficient solutions
+
+</div>
+
+---
+
+## 📌 Featured Stack
+
+<div align="center">
+
+```
+Frontend  →  Backend  →  Database  →  Deployment
+HTML/CSS  →  Python  →  MySQL  →  GitHub Pages
+React     →  Node.js  →  MongoDB  →  Vercel
+JS        →  PHP     →  Firebase  →  Heroku
+```
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+I'm always open to collaborating on exciting projects and discussing innovative ideas. Feel free to reach out!
+
+**[📧 Email Me](mailto:your.email@example.com)** | **[💼 LinkedIn](https://linkedin.com/in/nagoorgani)** | **[🐦 Twitter](https://twitter.com/yourhandle)**
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Thank you for visiting my profile! ✨
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=nagoorgani&icon=0&color=0087FF)
+
+<!-- Proudly created with ❤️ -->
+
+</div>
